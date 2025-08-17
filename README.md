@@ -12,12 +12,13 @@ The project contains files in two language versions **Polish** 🇵🇱 && **Eng
 
 UPDATE: CompoPortal.ino (now You can choose portal style version)
 ---
+
 ---
 
-🔥 Update
+## 🔥 Update
 	•	📄 Added file: Combined_CaptivePortal.ino
 	•	🌐 SocialMedia Portal: new option with social media login style
-	•	🎨 Portal customization: now you can choose the look of your portal directly from the /creeds tab
+	•	🎨 custom Portal: now you can choose the look of your portal directly from the /creeds tab
 
 ---
 
