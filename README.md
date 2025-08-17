@@ -9,6 +9,16 @@ A **captive portal project** running on an ESP32 board that simulates a **router
 Users are redirected to a page prompting them to "update their router." When a password is entered, it gets saved locally.
 
 The project contains files in two language versions **Polish** 🇵🇱 && **English** 🇬🇧
+
+UPDATE: CompoPortal.ino (now You can choose portal style version)
+---
+---
+
+🔥 Update
+	•	📄 Added file: Combined_CaptivePortal.ino
+	•	🌐 SocialMedia Portal: new option with social media login style
+	•	🎨 Portal customization: now you can choose the look of your portal directly from the /creeds tab
+
 ---
 
 ## ⚙️ How It Works
@@ -24,12 +34,16 @@ The project contains files in two language versions **Polish** 🇵🇱 && **Eng
 ---
 
 ## 📸 Screenshots
-
 Router_update_ESP32_PL.ino (PL🇵🇱 version)
+
 | Main Page | Creds | Loading |
 |-----------|----------------|--------------|
 | ![](img/1.jpg) | ![](img/2.jpg) | ![](img/3.jpg) |
 
+ComboPortal.ino
+| Main Page | Loading |
+|-----------|----------------|
+| ![](img/4.jpg) | ![](img/5.jpg) |
 ---
 
 ## 🛠️ Requirements
