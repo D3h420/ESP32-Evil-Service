@@ -36,7 +36,7 @@ UPDATE: CompoPortal.ino (now You can choose portal style version)
 
 ## 📸 Screenshots
 ComboPortal.ino
-| Main Page | Loading |
+| /creds | Social Media Portal |
 |-----------|----------------|
 | ![](img/4.jpg) | ![](img/5.jpg) |
 
