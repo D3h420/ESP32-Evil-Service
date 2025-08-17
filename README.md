@@ -16,9 +16,9 @@ UPDATE: CompoPortal.ino (now You can choose portal style version)
 ---
 
 ## 🔥 Update
-•	📄 Added file: Combined_CaptivePortal.ino
-•	🌐 SocialMedia Portal: new option with social media login style
-•   🎨 custom Portal: now you can choose the look of your portal directly from the /creeds tab
+-  📄 Added file: Combined_CaptivePortal.ino
+-	🌐 SocialMedia Portal: new option with social media login style
+-  🎨 custom Portal: now you can choose the look of your portal directly from the /creeds tab
 
 ---
 
