@@ -16,9 +16,9 @@ UPDATE: CompoPortal.ino (now You can choose portal style version)
 ---
 
 ## 🔥 Update
-	•	📄 Added file: Combined_CaptivePortal.ino
-	•	🌐 SocialMedia Portal: new option with social media login style
-	•	🎨 custom Portal: now you can choose the look of your portal directly from the /creeds tab
+•	📄 Added file: Combined_CaptivePortal.ino
+•	🌐 SocialMedia Portal: new option with social media login style
+•   🎨 custom Portal: now you can choose the look of your portal directly from the /creeds tab
 
 ---
 
@@ -35,16 +35,16 @@ UPDATE: CompoPortal.ino (now You can choose portal style version)
 ---
 
 ## 📸 Screenshots
-Router_update_ESP32_PL.ino (PL🇵🇱 version)
-
-| Main Page | Creds | Loading |
-|-----------|----------------|--------------|
-| ![](img/1.jpg) | ![](img/2.jpg) | ![](img/3.jpg) |
-
 ComboPortal.ino
 | Main Page | Loading |
 |-----------|----------------|
 | ![](img/4.jpg) | ![](img/5.jpg) |
+
+Router_update_ESP32_PL.ino (PL🇵🇱 version)
+| Main Page | Creds | Loading |
+|-----------|----------------|--------------|
+| ![](img/1.jpg) | ![](img/2.jpg) | ![](img/3.jpg) |
+
 ---
 
 ## 🛠️ Requirements

