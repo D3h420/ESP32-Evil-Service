@@ -4,19 +4,8 @@
 
 ## 🚀 Getting Started
 
-A **captive portal project** running on an ESP32 board that simulates a **router firmware update**. Once connected to the Wi-Fi network named `Evil_Service`, navigate to `http://172.0.0.1/creds`. This page also includes a powerful feature: the ability to change the network's SSID (the fake portal's name) on the fly.
+A **captive portal project** running on an ESP32 board that simulates a **router firmware update** or **free network AP**. Once connected to the Wi-Fi network named `Evil_Service`, navigate to `http://172.0.0.1/creds`. This page also includes the ability to change the network's SSID and style on the fly.
 
-Users are redirected to a page prompting them to "update their router." When a password is entered, it gets saved locally.
-
-The project contains files in two language versions **Polish** 🇵🇱 && **English** 🇬🇧
-
-UPDATE: CompoPortal.ino (now You can choose portal style version)
----
-
----
-
-## 🔥 Update
--  📄 Added file: Combined_CaptivePortal.ino
 -	🌐 SocialMedia Portal: new option with social media login style
 -  🎨 custom Portal: now you can choose the look of your portal directly from the /creeds tab
 
@@ -30,7 +19,7 @@ UPDATE: CompoPortal.ino (now You can choose portal style version)
 4. The entered password is logged internally on the device.
 5. The page at `http://172.0.0.1/creds` displays:
    - 📥 **Credential viewer** — collected passwords.
-   - ✏️ **Change AP name (SSID)** — directly from the web interface without reflashing the device.
+   - ✏️ **Change AP name (SSID) and style** — directly from the web interface without reflashing the device.
 
 ---
 
@@ -38,12 +27,7 @@ UPDATE: CompoPortal.ino (now You can choose portal style version)
 ComboPortal.ino
 | /creds | Social Media Portal |
 |-----------|----------------|
-| ![](img/4.jpg) | ![](img/5.jpg) |
-
-Router_update_ESP32_PL.ino (PL🇵🇱 version)
-| Main Page | Creds | Loading |
-|-----------|----------------|--------------|
-| ![](img/1.jpg) | ![](img/2.jpg) | ![](img/3.jpg) |
+| ![](img/1.jpg) | ![](img/2.jpg) |
 
 ---
 
